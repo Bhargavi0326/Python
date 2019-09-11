@@ -1,3 +1,3 @@
 O,K=map(int,input().split())
-ninjas= O-K
+ninjas= K-O
 print (ninjas)
